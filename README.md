@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Ben!
-I'm new to the world of coding and web dev.
-I'm here to learn data science 
+I'm new to the world of coding.
+I have just finished a 6 months bootcamp on Data Science with LeWagon.
+
+I presented our final project, Sales Buddy, which uses ML to predict wether or not a customer enquiry is likely to turn into a booking. 
 
 <!--
 **bennyindxb/bennyindxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
